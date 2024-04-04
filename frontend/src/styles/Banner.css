@@ -1,0 +1,19 @@
+.librairie-banner {
+	color: black;
+	text-align: right;
+	padding: 32px;
+	border-bottom: solid 3px white;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.librairie-title {
+	padding-left: 32px;
+}
+
+.librairie-logo {
+	height: 45px;
+	width: 45px;
+}
